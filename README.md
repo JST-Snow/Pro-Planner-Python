@@ -12,5 +12,5 @@
 
 ## 🚀 Как запустить
 1. Установите зависимости:
-   ```bash
-   pip install customtkinter tkcalendar requests
+  🛠 Сборка в EXE
+pyinstaller --noconsole --onefile --collect-all customtkinter --icon=icon.ico --name "ProPlanner" planner.py
