@@ -12,5 +12,6 @@
 
 ## 🚀 Как запустить
 1. Установите зависимости:
-  🛠 Сборка в EXE
+  🛠 Сборка в EXE:
+
 pyinstaller --noconsole --onefile --collect-all customtkinter --icon=icon.ico --name "ProPlanner" planner.py
