@@ -14,4 +14,4 @@
 1. Установите зависимости:
   🛠 Сборка в EXE:
 
-pyinstaller --noconsole --onefile --collect-all customtkinter --icon=icon.ico --name "ProPlanner" planner.py
+pyinstaller --noconsole --onefile --collect-all customtkinter --name "ProPlanner" planner.py
